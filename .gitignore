@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Data files
+data/raw/
+data/processed/
+
+# Power BI temporary files
+*.tmp
+*.bak
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
